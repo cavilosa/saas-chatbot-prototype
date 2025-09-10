@@ -1,4 +1,3 @@
-# src/auth/routes.py
 import json
 from os import environ as env
 from urllib.parse import quote_plus, urlencode

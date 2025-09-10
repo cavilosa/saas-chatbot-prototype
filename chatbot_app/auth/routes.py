@@ -1,4 +1,3 @@
-# src/auth/routes.py
 import json
 from os import environ as env
 from urllib.parse import quote_plus, urlencode
@@ -7,7 +6,6 @@ from flask import Blueprint, redirect, render_template, session, url_for
 
 from ..extensions.oauth import oauth
 
-# Create a Blueprint
 auth_bp = Blueprint(
     'auth_bp', __name__,
     template_folder='templates'
