@@ -89,6 +89,11 @@ The application requires several environment variables for configuration, partic
 1.  Create a `.env` file in the root of the project directory.
 2.  Add the following variables to your `.env` file, replacing the placeholder values with your actual credentials from the Auth0 dashboard:
     ```ini
+
+    # DATABASE setup
+    DATABASE_URL=''
+    DATABASE_PASSWORD=''
+
     # Flask Configuration
     SECRET_KEY='a_very_strong_and_random_secret_key_here'
     FLASK_ENV='development'
