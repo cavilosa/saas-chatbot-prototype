@@ -15,3 +15,7 @@ class Config:
     AUTH0_CLIENT_ID = os.environ.get("AUTH0_CLIENT_ID")
     AUTH0_CLIENT_SECRET = os.environ.get("AUTH0_CLIENT_SECRET")
     AUTH0_DOMAIN = os.environ.get("AUTH0_DOMAIN")
+
+    # Neon Database
+    DATABASE_URL = os.environ.get("DATABASE_URL")
+    DATABASE_PASSWORD = os.environ.get("DATABASE_PASSWORD")
