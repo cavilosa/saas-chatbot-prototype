@@ -1,4 +1,3 @@
-# run.py (at the top level of your project)
 from chatbot_app import create_app
 
 app = create_app()
