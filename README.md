@@ -15,7 +15,7 @@
 
 > [!IMPORTANT]
 > **Project Archival Notice (May 2026)**
-> This repository is now archived and serves as a static portfolio piece. It successfully fulfilled its goal of exploring secure SaaS authentication (OAuth 2.0) and foundational API security. I am currently focusing my efforts on enterprise cloud infrastructure, identity automation, and security governance under my professional brand, **NorthShield Cyber**, as well as actively pursuing my Microsoft Azure (AZ-900) and Microsoft 365 (MS-900) certifications.
+> This repository is now archived and serves as a static portfolio piece. It successfully fulfilled its goal of exploring secure SaaS authentication (OAuth 2.0) and foundational API security. I am cur[...]
 
 ## 🎯 Executive Summary
 
@@ -23,7 +23,7 @@
 
 ## 🌟 Project Overview
 
-The goal of this project was to build a functional prototype of a Software-as-a-Service (SaaS) chatbot with a primary focus on implementing security best practices from the ground up. The application features a secure authentication system using a third-party identity provider, allowing users to sign up, log in, and interact with a foundational chat interface.
+The goal of this project was to build a functional prototype of a Software-as-a-Service (SaaS) chatbot with a primary focus on implementing security best practices from the ground up. The applicat[...]
 
 ## ✨ Features
 
@@ -127,7 +127,7 @@ As a security-focused project, the following areas were given special attention 
 * [ ] **Phase 3: AI Integration (Archived)** - Connect the backend to a language model to provide functional chat capabilities.
 * [ ] **Phase 4: Advanced Hardening (Archived)** - Implementation of advanced rate limiting and comprehensive security auditing.
 
-*Note: Phases 3 and 4 have been archived as my professional focus has transitioned away from application-layer AI development toward enterprise cloud infrastructure and M365 identity automation.*
+*Note: Phases 3 and 4 have been archived as my focus has shifted to enterprise cloud infrastructure and security governance.*
 
 ---
 
